@@ -12,6 +12,8 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 - Inspect the CSV files, and then sketch an ERD (Entity-Relationship Diagram) of the tables. To create the sketch, feel free to use a tool like [QuickDBD](https://app.quickdatabasediagrams.com/#/d/meTZU3) or any other suitable tool.
 
+![ERD Image](https://github.com/hieulam86/sql-challenge/assets/132635473/91423f51-b620-4ed8-8f5c-dac083e50f59)
+
 ### Data Engineering
 
 - Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
@@ -21,6 +23,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
   - Import each CSV file into its corresponding SQL table.
 
 ### Data Analysis
+Perform the following data analysis using SQL queries:
 
 - List the employee number, last name, first name, sex, and salary of each employee.
 - List the first name, last name, and hire date for the employees who were hired in 1986.
