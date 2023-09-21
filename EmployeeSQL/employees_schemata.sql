@@ -45,4 +45,3 @@ CREATE TABLE salaries (
 	salary INT,
 	FOREIGN KEY (emp_no) REFERENCES employees(emp_no)
 );
-
